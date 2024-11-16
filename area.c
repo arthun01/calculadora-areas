@@ -30,7 +30,7 @@ int main(){
     }while(ask < 1 || ask > 4);
 
     if(ask == 1){
-        //chama cir();
+        cir();
     }else if(ask == 2){
         tri();
     }else if(ask == 3){
@@ -75,4 +75,19 @@ float tri(void){
 
     return 0;
 }
+float cir(void){
+    float r;
+    double pi;
+    float area = 0.0;
 
+    printf("Digite o Raio da Circunferencia: ");
+    scanf("%f", &r);
+
+    pi = 3.1415926535898;
+    area = (r * r) * pi;
+
+    printf("A circunferencia de raio %.2f metros² tem area igual a %.2f metros²\n", r, area);
+    printf("-----------------------\n");
+    
+    return 0;
+}
