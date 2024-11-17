@@ -14,22 +14,24 @@ Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Progra
 
 ## 🧑‍💻 Como instalar e rodar
 
-1. Clone o repositório
-2. Instale as dependências
-3. Execute o comando "gcc area.c -o area"
-4. Execute o comando "./area"
+### 1- Clone o repositório
+`git clone https://github.com/arthun01/calculadora-areas.git`
 
-```
-git clone https://github.com/arthun01/calculadora-areas.git
+### 2- Instale as dependências
+Você pode instalar seguindo os seguintes tutoriais:
 
-cd calculadora-areas
+- <a href="https://edisciplinas.usp.br/mod/book/view.php?id=4642812">Instalar no Windows</a>
 
-gcc area.c -o area
+- <a href="https://www.bosontreinamentos.com.br/linux/como-instalar-gcc-e-pacotes-de-desenvolvimento-no-linux-debian-10/">Instalando no Linux</a>
 
-./area
-```
+### 3- Acesse a pasta do repositório
+`cd calculadora-areas`
 
-Obs.: É neccessário ter instalado o copilador *GCC* na máquina
+### 4- Copile o arquivo
+`gcc area.c -o area`
+
+### 5- Execute!!
+`./area`
 
 ## Tecnologias Usadas
 
