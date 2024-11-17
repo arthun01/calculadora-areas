@@ -17,8 +17,8 @@ Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Progra
 ### 1- Clone o repositório
 `git clone https://github.com/arthun01/calculadora-areas.git`
 
-### 2- Instale as dependências
-Você pode instalar seguindo os seguintes tutoriais:
+### 2- Instale as dependências (Copilador)
+Você pode instalar o GCC seguindo os seguintes tutoriais:
 
 - <a href="https://edisciplinas.usp.br/mod/book/view.php?id=4642812">Instalar no Windows</a>
 
