@@ -36,7 +36,7 @@ int main(){
     }else if(ask == 3){
         //chama ret();
     }else if(ask == 4){
-        //chama tra();
+        tra();
     }
 
     //Vendo se o usuário quer chamar a main de novo
@@ -89,5 +89,26 @@ float cir(void){
     printf("A circunferencia de raio %.2f metros² tem area igual a %.2f metros²\n", r, area);
     printf("-----------------------\n");
     
+    return 0;
+}
+//Função que calcula a Área do Trapézio
+float tra(void){
+    float bmaior = 0.0, bmenor = 0.0, altura = 0.0;
+    float area = 0.0;
+
+    printf("Digite a maior base do trapézio: ");
+    scanf("%f", &bmaior);
+
+    printf("\nDigite a menor base do trapézio: ");
+    scanf("%f", &bmenor);
+
+    printf("\nDigite a altura do trapézio: ");
+    scanf("%f", &altura);
+
+    area = ((bmaior+bmenor)*altura)/2;
+
+    printf("\nO Trapézio de altura %.2f, bases %.2f metros e %.2f metros, tem área igual a: %.2f", altura, bmaior, bmenor, area);
+    printf("-----------------------\n");
+
     return 0;
 }
