@@ -10,7 +10,7 @@ Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Progra
 ## ✒️ Autores
 
 * **Arthur Ramos Vieira** - *Base do projeto e Função que Calcula o Triângulo* - [@arthun01](https://github.com/arthun01)
-* **Anna Beatriz Reis dos Reis** - *Fez a Função que Calcula a Circunferência* - [@annabiauesc](https://github.com/linkParaPerfil](https://github.com/annabiauesc))
+* **Anna Beatriz Reis dos Reis** - *Fez a Função que Calcula a Circunferência* - [@annabiauesc](https://github.com/annabiauesc)
 
 ## 🧑‍💻 Como instalar e rodar
 
