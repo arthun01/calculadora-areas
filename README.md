@@ -21,9 +21,11 @@ Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Progra
 
 ```
 git clone https://github.com/arthun01/calculadora-areas.git
+
 cd calculadora-areas
 
 gcc area.c -o area
+
 ./area
 ```
 
