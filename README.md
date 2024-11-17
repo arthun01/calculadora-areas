@@ -1,23 +1,27 @@
 ## 🧮 Calculadora de Áreas
 #### Calculadora de áreas de algumas figuras planas.
 
-Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Programação I* para explicar e exemplificar o uso de Git e Github no desenvolvimento de projetos.
+Projeto feito em equipe para obtenção de nota na matéria *Linguagem de Programação I* com o objetivo de explicar e exemplificar o uso de Git e Github no desenvolvimento de projetos.
+##
 
-#### Universidade Estadual de Santa Cruz (UESC)
-#### Ciência da Computação, 2024.2
-
+<div align="right">
+  <h4>Universidade Estadual de Santa Cruz (UESC)</h4>
+  <h4>Ciência da Computação, 2024.2</h4>
+</div>
 
 ## ✒️ Autores
 
 * **Arthur Ramos Vieira** - *Base do projeto e Função que Calcula o Triângulo* - [@arthun01](https://github.com/arthun01)
 * **Anna Beatriz Reis dos Reis** - *Fez a Função que Calcula a Circunferência* - [@annabiauesc](https://github.com/annabiauesc)
+* **Anthony Henrique Almeida** - *Fez a Função que Calcula o Trapézio* - [@anthonyaha](https://github.com/anthonyaha)
+* **Rafael Cardoso Silva Santos** - *Fez a Função que Calcula o Retângulo* - [@raffscardoso](https://github.com/raffscardoso)
 
 ## 🧑‍💻 Como instalar e rodar
 
 ### 1- Clone o repositório
 `git clone https://github.com/arthun01/calculadora-areas.git`
 
-### 2- Instale as dependências (Copilador)
+### 2- Instale o Copilador da Linguagem `C`
 Você pode instalar o GCC seguindo os seguintes tutoriais:
 
 - <a href="https://edisciplinas.usp.br/mod/book/view.php?id=4642812">Instalar no Windows</a>
@@ -33,7 +37,7 @@ Você pode instalar o GCC seguindo os seguintes tutoriais:
 ### 5- Execute!!
 `./area`
 
-## Tecnologias Usadas
+## 🚀​ Tecnologias Usadas
 
 <div align="center">
 
