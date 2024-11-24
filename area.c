@@ -14,7 +14,7 @@ float tra(void);
 
 int main()
 {
-    printf("Alteração conflituosa de Anthony <-\n");
+    printf("Alteração de Anthony\n");
     int ask = 0;
 
     printf("===================\n");
