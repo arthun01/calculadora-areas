@@ -4,8 +4,6 @@ Discentes: Arthur Ramos Vieira,
 Docente: Marcelo Honda
 */
 
-
-//Bibliotecas
 #include <stdio.h>
 
 //Declaração das funções
@@ -15,6 +13,8 @@ float ret(void);
 float tra(void);
 
 int main(){
+    
+    printf("Bia alterou aqui\n");
     int ask = 0;
 
     printf("===================\n");
