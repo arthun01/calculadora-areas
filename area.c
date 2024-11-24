@@ -4,7 +4,6 @@ Discentes: Arthur Ramos Vieira, Anna Beatriz Reis, Anthony Almeida e Rafael Card
 Docente: Marcelo Honda
 */
 
-// Bibliotecas
 #include <stdio.h>
 
 // Declaração das funções
@@ -20,6 +19,7 @@ int main()
 
     printf("===================\n");
     printf("CALCULADORA DE ÁREA\n");
+    printf("===================\n");
     printf("===================\n");
 
     // Chamando as funções
