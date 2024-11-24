@@ -14,7 +14,8 @@ float tra(void);
 
 int main()
 {
-    printf("Rafael alterou aqui\n");
+    printf("Rafael e Bia alterou aqui\n");
+
     int ask = 0;
 
     printf("===================\n");
